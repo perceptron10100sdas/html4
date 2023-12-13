@@ -1,0 +1,44 @@
+.class{
+    background: green;
+    text-align: center;
+color: white;
+
+}
+.thanks{
+font-style: italic;
+}
+.form{
+    
+    background:black;
+    
+       color: white;
+      
+       padding: 20px;
+       
+       
+
+    
+   
+}
+.input{
+    background-color: black;
+    color: white;
+   
+}
+.button{
+    background-color: green;
+    color: white;
+    padding: 20px;
+
+border-radius: 4px;
+margin-top: 30px;
+margin-left: -100px;
+    
+}
+.option {
+    background-color: black;
+    color: white;
+   
+}
+
+
